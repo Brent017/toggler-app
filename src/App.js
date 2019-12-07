@@ -1,6 +1,8 @@
 import React from "react";
 import Menu from "./Menu";
 import Favorite from "./Favorite";
+import Button from "./Button";
+import Header from "./Header";
 
 function App() {
   return (
@@ -8,6 +10,9 @@ function App() {
       <Menu />
       <hr />
       <Favorite />
+      <hr />
+      <Header />
+      <Button />
     </div>
   );
 }
