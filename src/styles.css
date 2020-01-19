@@ -9,7 +9,7 @@ header {
 
 button {
   padding: 10px;
-  border: none;
+  border: 2px solid black;
   margin: 10px;
 }
 
